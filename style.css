@@ -1,0 +1,11 @@
+body {
+  padding: 0;
+  margin: 0;
+}
+
+.sidebar{
+  background-color: white;
+  padding: 5px;
+  border: 1px solid black;
+  width: 20%;
+}
